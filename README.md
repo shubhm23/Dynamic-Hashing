@@ -5,7 +5,7 @@
 Extendible Hashing is a dynamic hashing method wherein directories, and buckets are used to hash data. It is an aggressively flexible method in which the hash function also experiences dynamic changes. 
 
 ## Implementation
-
+![Class Diagram](https://github.com/shubhm23/Dynamic-Hashing/blob/main/images/demo/ClassDiagram.png?raw=true)
 ![Insert](https://github.com/shubhm23/Dynamic-Hashing/blob/main/images/demo/Insert.png?raw=true)
 ![Search](https://github.com/shubhm23/Dynamic-Hashing/blob/main/images/demo/Search.png?raw=true)
 ![Delete](https://github.com/shubhm23/Dynamic-Hashing/blob/main/images/demo/Delete.png?raw=true)
